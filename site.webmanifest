@@ -1,0 +1,23 @@
+{
+    "name": "matapelajaran.biz.id",
+    "short_name": "matapelajaran",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLhxpLdpGPlINngVNJel5WdPqa2HVxL6KdEe3ZqSm0Lc7vTJc_RbEVBUAGwP2aNACzx1txzKCb9MdVEGxqa84Ffr6T_WhQaPPj4kS4RnNRnzxjYP-HRGfjPwqdewaMLcfP8q6HzMXnjqStkg37F78L12TToqvmnBU7Rks71wiX9Ndv754BBy6A3zmjmkQZ/s192/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQHcs-M-1xZCIS3IVZzgUrI3fGQqqyLAAcH_ovXdtcWnTCUtv4ns8sVesO07MICzHtGrJ0lH7dwN_HBDodbZWDhUS_b75Jug7h-JZTsvRarWTqyuvC8zzBwntV-wccvfTP9oW3wNvXjs2yW8pDF4cF_xa3J7tvUNB6pErzu85Ok0yKSilPJcP49IPBC8W9/s320/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#3291d1",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.matapelajaran.biz.id"
+}
